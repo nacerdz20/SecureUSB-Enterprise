@@ -70,6 +70,10 @@ Restart-Computer
 
 ## 📚 التوثيق
 
+- [دليل الاستخدام الشامل (User Guide)](docs/user-guide.md)
+- [دليل التثبيت (Installation)](docs/installation.md)
+- [بنية النظام (Architecture)](docs/architecture.md)
+
 راجع مجلد:
 
 ```
